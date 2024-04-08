@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.Eng. Student in FinTech at Duke University
 
 ## Research Interests
 
