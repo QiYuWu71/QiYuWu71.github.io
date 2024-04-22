@@ -6,12 +6,12 @@ layout: homepage
 
 I am a M.Eng. Student in FinTech at Duke University
 
-## Research Interests
+## Past Experience
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Quantitative Analyst:** image recognition, image generation, video captioning
+- **Quantitative :** meta-learning, incremental learning, transfer learning
 
-## News
+## Projects
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
